@@ -32,3 +32,7 @@ PyQt5	Used for GUI (Graphical User Interface)
 Socket	Used for TCP Port Scanning
 Requests	Used for sending HTTP POST requests in brute-force
 QPalette	Used to design the dark red theme for the app
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/80e42229-19fe-4cb2-b940-e37b1b145584)
+
+
